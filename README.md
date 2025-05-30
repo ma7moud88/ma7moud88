@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Mahmoud mohamed!
 <a href='linkedin.com/in/mahmoud-muhammad-62a705328'><img align='left' alt="linkedin" src="linkedin.com/in/mahmoud-muhammad-62a705328" height='18px'/></a>
 <a href="#"><img align='left' alt="twitter" src="#" height='18px'/></a>
+<br>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
