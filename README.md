@@ -181,20 +181,3 @@ A fast learner who thrives in team environments and always seeks opportunities t
 
 </div>
 
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.zcy.dev/api?username=ma7moud88&show_icons=true&theme=dark&include_all_commits=true" height="150" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=ma7moud88&theme=dark&hide_border=true&border_radius=5" height="150" alt="GitHub Streak"  />
-
-<img src="https://github-readme-stats.zcy.dev/api/top-langs?username=ma7moud88&layout=compact&theme=dark" height="150" alt="Top Languages" />
-
-</div>
-
-
-
-![Snake Animation](https://github.com/ma7moud88/ma7moud88/blob/output/snake-dark.svg)
-
