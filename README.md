@@ -7,8 +7,8 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=abdohshem125&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ma7moud88)
-[![GitHub Followers](https://img.shields.io/github/followers/abdohshem125?style=social)](https://github.com/ma7moud88)
+[![Profile Views](https://komarev.com/ghpvc/?username=ma7moud88&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ma7moud88)
+[![GitHub Followers](https://img.shields.io/github/followers/ma7moud88?style=social)](https://github.com/ma7moud88)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma7moud-mo7amed/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahmoudmuhammad606@gmail.com)
 
