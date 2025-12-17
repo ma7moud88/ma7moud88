@@ -7,10 +7,10 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=abdohshem125&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdohshem125)
-[![GitHub Followers](https://img.shields.io/github/followers/abdohshem125?style=social)](https://github.com/abdohshem125)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-hashem18/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdohashim228@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=abdohshem125&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ma7moud88)
+[![GitHub Followers](https://img.shields.io/github/followers/abdohshem125?style=social)](https://github.com/ma7moud88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma7moud-mo7amed/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahmoudmuhammad606@gmail.com)
 
 </div>
 
@@ -63,9 +63,6 @@ A fast learner who thrives in team environments and always seeks opportunities t
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
