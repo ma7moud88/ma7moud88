@@ -195,5 +195,5 @@ A fast learner who thrives in team environments and always seeks opportunities t
 
 </div>
 
-
 ![Snake Animation](https://github.com/ma7moud88/ma7moud88/blob/output/snake-dark.svg)
+
