@@ -29,15 +29,16 @@
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
 ###
+💻 I’m a MERN Stack Developer who enjoys building modern web applications using React, Next.js, Node.js, and Express. I genuinely love the process of turning ideas into real, working products 🚀.
 
+🎨🛠️ I enjoy working on both frontend and backend, and I don’t like limiting myself to one side. I’m passionate about learning everything related to software engineering and understanding the bigger picture behind how applications are built and scaled.
 
-I’m a MERN Stack Developer who enjoys building modern web applications using React, Next.js, Node.js, and Express. I genuinely love the process of turning ideas into real, working products.
+🧠 What excites me most is problem-solving, breaking down complex challenges, and improving performance and user experience.
 
-I enjoy working on both frontend and backend, and I don’t like limiting myself to one side. I’m passionate about learning everything related to software engineering and understanding the bigger picture behind how applications are built and scaled. What excites me most is problem-solving, breaking down complex challenges, and improving performance and user experience.
+⚙️ I’ve worked on projects using Next.js and Express, which helped me appreciate the value of clean, well-structured code and how small details can make a big difference.
 
-I’ve worked on projects using Next.js and Express, which helped me appreciate the value of clean, well-structured code and how small details can make a big difference in the final result. I’m known for my fast learning ability, attention to detail, and analytical way of thinking.
-
-My current goal is to continuously improve myself, learn more every day, and build better solutions with each new experience.
+📈 I’m known for my fast learning ability, attention to detail, and analytical way of thinking.
+🎯 My current goal is to continuously improve myself, learn more every day, and build better solutions with each new experience.
 
 
 - 📫 **How to reach me**  
