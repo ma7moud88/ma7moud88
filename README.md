@@ -31,11 +31,13 @@
 ###
 
 
-💻 Motivated and detail-oriented Frontend Developer specializing in building fast, scalable, and user-focused web applications using Next.js.
-Currently a third-year Computer Science student with a strong passion for modern web technologies and clean UI/UX practices.
-I enjoy turning ideas into real products, writing maintainable code, and continuously improving my skills.
-Previously worked with Android development using Java, and now fully focused on strengthening my expertise in the React/Next.js ecosystem.
-A fast learner who thrives in team environments and always seeks opportunities to grow, take ownership, and deliver high-quality solutions.
+I’m a MERN Stack Developer who enjoys building modern web applications using React, Next.js, Node.js, and Express. I genuinely love the process of turning ideas into real, working products.
+
+I enjoy working on both frontend and backend, and I don’t like limiting myself to one side. I’m passionate about learning everything related to software engineering and understanding the bigger picture behind how applications are built and scaled. What excites me most is problem-solving, breaking down complex challenges, and improving performance and user experience.
+
+I’ve worked on projects using Next.js and Express, which helped me appreciate the value of clean, well-structured code and how small details can make a big difference in the final result. I’m known for my fast learning ability, attention to detail, and analytical way of thinking.
+
+My current goal is to continuously improve myself, learn more every day, and build better solutions with each new experience.
 
 
 - 📫 **How to reach me**  
